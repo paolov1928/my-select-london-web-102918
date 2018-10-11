@@ -9,7 +9,7 @@ array3 = []
   end
   while h < array.length
   if array2[h] == true
-  array3.push(array1[h])
+  array3.push(array[h])
   h += 1
   else
   h += 1
