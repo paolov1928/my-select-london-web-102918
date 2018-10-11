@@ -4,6 +4,7 @@ array2 = []
   while i < array.length
     if yield array[i] == true
     array2.push(yield array[i])
+  end
     i = i + 1
   end
   array2
