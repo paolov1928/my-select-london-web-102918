@@ -15,4 +15,5 @@ array3 = []
   h += 1
   end
   end
+  array3
 end
